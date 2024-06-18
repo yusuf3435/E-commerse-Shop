@@ -21,17 +21,29 @@ Terminal”
 Installation to be completed (requires Internet)
 
 4. Setup The MongoDB
+
 a. Search and go on the MongoDB website
+
 b. After that Sign Up on the website.
+
 c. Click on New Project Option
+
 d. After Creating Project go to Database Section & Build a database
+
 e. Select M0 & Your Region & Create Database
+
 f. Setup Username & Password & Create User
+
 g. Add IP 0.0.0.0 & Click on Add Entry
+
 h. Now Click on Finish & Close
+
 i. Now Click on Connect
+
 j. Now Select Compass Option
+
 k. And Copy the Connection String
+
 l. And Paste It in index.js replace <password> with password you set previously in 4.F & save changes
 
 5. To Run Project use node .\index.js in Integrated Terminal
